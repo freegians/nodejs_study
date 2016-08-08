@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_study",
+  "version": "0.0.1",
+  "description": "study project of nodejs",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freegians/nodejs_study.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "freegians",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freegians/nodejs_study/issues"
+  },
+  "homepage": "https://github.com/freegians/nodejs_study#readme"
+}
