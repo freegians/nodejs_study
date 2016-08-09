@@ -2,6 +2,7 @@
 target/
 .idea/
 .mvn/
+.vscode/
 /logs/
 /workbooks/
 /node_modules/
